@@ -1,6 +1,6 @@
 uid: EX-0006
 type: example
-status: proposed
+status: ratified
 title: A term with no example
 text: conformance/no-example holds a term Source with no example. tl check reports
   that it is required.
@@ -10,3 +10,14 @@ links:
   type: verifies
 attrs:
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:29:20Z'
+  fingerprint: sha256:b6c07b0e04c6bc1432e3c927f9b1aed3208a12ae0dde7e9917aabde9243e0bc2
+  content:
+    type: example
+    text: conformance/no-example holds a term Source with no example. tl check reports
+      that it is required.
+    normative: true
+    derived: false
+    attrs: {}

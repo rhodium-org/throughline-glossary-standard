@@ -1,6 +1,6 @@
 uid: EX-0010
 type: example
-status: proposed
+status: ratified
 title: An audience that does not say what it knows
 text: conformance/audience-no-knows holds an audience with no knows. tl check reports
   that it is required.
@@ -10,3 +10,14 @@ links:
   type: verifies
 attrs:
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:29:23Z'
+  fingerprint: sha256:55937ebbcbc4f662bc7ffea5e6a3e3310fe5f8cc7536299babb9655ddbc626c0
+  content:
+    type: example
+    text: conformance/audience-no-knows holds an audience with no knows. tl check
+      reports that it is required.
+    normative: true
+    derived: false
+    attrs: {}

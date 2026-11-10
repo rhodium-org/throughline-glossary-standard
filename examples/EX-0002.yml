@@ -1,6 +1,6 @@
 uid: EX-0002
 type: example
-status: proposed
+status: ratified
 title: A second glossary a first maps onto
 text: conformance/shared-glossary is a glossary of the same explained graph whose
   term Look the full glossary's Brand is the same as. tl check passes.
@@ -10,3 +10,14 @@ links:
   type: verifies
 attrs:
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:29:15Z'
+  fingerprint: sha256:658a2dd9ac75c20bb08d4e51d913bbfdb41f905d8dbf8a8ecea3e411d4fd53b1
+  content:
+    type: example
+    text: conformance/shared-glossary is a glossary of the same explained graph whose
+      term Look the full glossary's Brand is the same as. tl check passes.
+    normative: true
+    derived: false
+    attrs: {}

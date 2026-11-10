@@ -1,6 +1,6 @@
 uid: EX-0008
 type: example
-status: proposed
+status: ratified
 title: Two glossaries in one graph
 text: conformance/two-glossaries holds a second glossary. tl check reports that the
   register GLS declares exactly one.
@@ -10,3 +10,14 @@ links:
   type: verifies
 attrs:
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:29:13Z'
+  fingerprint: sha256:6f2f6760c5562358a723b8939ecffe3f0e55805e932e800144b3f7d7e6748068
+  content:
+    type: example
+    text: conformance/two-glossaries holds a second glossary. tl check reports that
+      the register GLS declares exactly one.
+    normative: true
+    derived: false
+    attrs: {}

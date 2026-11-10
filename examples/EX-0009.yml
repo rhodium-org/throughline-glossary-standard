@@ -1,6 +1,6 @@
 uid: EX-0009
 type: example
-status: proposed
+status: ratified
 title: A gloss for no audience
 text: conformance/gloss-no-audience holds a gloss linked to no audience. tl check
   reports that it needs one.
@@ -10,3 +10,14 @@ links:
   type: verifies
 attrs:
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:29:22Z'
+  fingerprint: sha256:51e0cc5a6fe16bd34611d6c40536f6f2902377f341bb5ac358de14ad94997d59
+  content:
+    type: example
+    text: conformance/gloss-no-audience holds a gloss linked to no audience. tl check
+      reports that it needs one.
+    normative: true
+    derived: false
+    attrs: {}

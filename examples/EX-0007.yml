@@ -1,6 +1,6 @@
 uid: EX-0007
 type: example
-status: proposed
+status: ratified
 title: A term that does not say how it works
 text: conformance/no-how holds a term Source with no how_it_works. tl check reports
   that it is required.
@@ -10,3 +10,14 @@ links:
   type: verifies
 attrs:
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:29:21Z'
+  fingerprint: sha256:d3180baf4191999d2194d0fa9872de23d1fc9efcea3a82aa116fe174cfd2f7c9
+  content:
+    type: example
+    text: conformance/no-how holds a term Source with no how_it_works. tl check reports
+      that it is required.
+    normative: true
+    derived: false
+    attrs: {}

@@ -1,6 +1,6 @@
 uid: EX-0005
 type: example
-status: proposed
+status: ratified
 title: A term with no example item
 text: conformance/no-shown holds Content with no shown_by link. tl check reports
   that it is shown by nothing.
@@ -10,3 +10,14 @@ links:
   type: verifies
 attrs:
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:29:18Z'
+  fingerprint: sha256:753fb4d192e447fc5c69b14d2705a9b7992f9e69240bd11d6d50cf12b604d952
+  content:
+    type: example
+    text: conformance/no-shown holds Content with no shown_by link. tl check reports
+      that it is shown by nothing.
+    normative: true
+    derived: false
+    attrs: {}

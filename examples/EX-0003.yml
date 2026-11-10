@@ -1,6 +1,6 @@
 uid: EX-0003
 type: example
-status: proposed
+status: ratified
 title: A term defined from nothing
 text: conformance/no-source holds Content with no defined_from link. tl check reports
   that it has none to items outside the graph.
@@ -10,3 +10,14 @@ links:
   type: verifies
 attrs:
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:29:16Z'
+  fingerprint: sha256:48b752e41dc4835931540dd54fed72b1d2cb3223101ccd24ffd1f8765caee431
+  content:
+    type: example
+    text: conformance/no-source holds Content with no defined_from link. tl check
+      reports that it has none to items outside the graph.
+    normative: true
+    derived: false
+    attrs: {}
