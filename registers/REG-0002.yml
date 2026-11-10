@@ -1,6 +1,6 @@
 uid: REG-0002
 type: register
-status: proposed
+status: ratified
 title: Audiences live in AUD
 text: 'A follower holds its audiences in AUD, folder audiences/: one kind of reader,
   what they already know and what they ask.'
@@ -16,4 +16,15 @@ attrs:
   scope: followers
   required: false
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:12:03Z'
+  fingerprint: sha256:119a59e248b47f441c2071ca324f5c9fdf7b3860099b7e6d4d0e7171f4e8d74b
+  content:
+    type: register
+    text: 'A follower holds its audiences in AUD, folder audiences/: one kind of
+      reader, what they already know and what they ask.'
+    normative: true
+    derived: false
+    attrs: {}
 key: 0b6f6f0e-1d2a-4c3b-8e4f-449c43f7fe26

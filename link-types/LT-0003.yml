@@ -1,6 +1,6 @@
 uid: LT-0003
 type: link_type
-status: proposed
+status: ratified
 title: The link type shown_by
 text: A term is shown by the item of an explained graph its example is taken from.
   Stamped.
@@ -12,4 +12,15 @@ attrs:
   name: shown_by
   grounds: false
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:11:41Z'
+  fingerprint: sha256:5c6aa25be2a5fa823ff463000c2ec8c266cc56acce320f13c6de2a6580672b51
+  content:
+    type: link_type
+    text: A term is shown by the item of an explained graph its example is taken
+      from. Stamped.
+    normative: true
+    derived: false
+    attrs: {}
 key: 0b6f6f0e-1d2a-4c3b-8e4f-d715d4d7ab18

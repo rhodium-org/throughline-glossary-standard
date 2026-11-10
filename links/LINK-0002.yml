@@ -1,6 +1,6 @@
 uid: LINK-0002
 type: link
-status: proposed
+status: ratified
 title: An audience derives from its glossary.
 text: An audience derives from its glossary.
 normative: true
@@ -15,4 +15,14 @@ attrs:
   min: 1
   max: 1
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:12:24Z'
+  fingerprint: sha256:6ff7ca9d5ae4edaa9e602665ba9900ff80a8fc07a4ee150175b1dfb82ec91f45
+  content:
+    type: link
+    text: An audience derives from its glossary.
+    normative: true
+    derived: false
+    attrs: {}
 key: 0b6f6f0e-1d2a-4c3b-8e4f-29d9480ed258

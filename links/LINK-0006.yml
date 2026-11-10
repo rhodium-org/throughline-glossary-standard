@@ -1,6 +1,6 @@
 uid: LINK-0006
 type: link
-status: proposed
+status: ratified
 title: A term is distinct from the terms it may be confused with.
 text: A term is distinct from the terms it may be confused with.
 normative: true
@@ -13,4 +13,14 @@ links:
   type: via
 attrs:
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:12:28Z'
+  fingerprint: sha256:d77ef895c01a3aaac370637be3c05cf7b5caa1783380a2bda16e247059f8edf3
+  content:
+    type: link
+    text: A term is distinct from the terms it may be confused with.
+    normative: true
+    derived: false
+    attrs: {}
 key: 0b6f6f0e-1d2a-4c3b-8e4f-1c2ee6b3d02b

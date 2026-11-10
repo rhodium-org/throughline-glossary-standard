@@ -1,6 +1,6 @@
 uid: ATTR-0010
 type: attribute
-status: proposed
+status: ratified
 title: A term's local
 text: 'A term''s local: Flag; optional. True when the concept is deliberately the
   explained graphs'' own and no glossary this one maps onto should hold it; a term
@@ -14,3 +14,15 @@ links:
 attrs:
   name: local
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:12:22Z'
+  fingerprint: sha256:c3db4b30018c27f06f6c615159ec75e52bcc388947e8b4cb3bed91582c020902
+  content:
+    type: attribute
+    text: 'A term''s local: Flag; optional. True when the concept is deliberately
+      the explained graphs'' own and no glossary this one maps onto should hold it;
+      a term that is not local and matches nothing there is a finding.'
+    normative: true
+    derived: false
+    attrs: {}

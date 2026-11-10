@@ -1,6 +1,6 @@
 uid: ATTR-0004
 type: attribute
-status: proposed
+status: ratified
 title: A term's example
 text: 'A term''s example: Text; always; signed. One concrete case of the concept
   taken from the explained graph; the item it is taken from is the term''s shown_by
@@ -16,4 +16,16 @@ attrs:
   required: true
   normative: true
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:12:15Z'
+  fingerprint: sha256:16070546aa0481dd0957070427fca428037f5f16d0ac286e55614f5a6e1298be
+  content:
+    type: attribute
+    text: 'A term''s example: Text; always; signed. One concrete case of the concept
+      taken from the explained graph; the item it is taken from is the term''s shown_by
+      link.'
+    normative: true
+    derived: false
+    attrs: {}
 key: 0b6f6f0e-1d2a-4c3b-8e4f-e1dab44f9c76

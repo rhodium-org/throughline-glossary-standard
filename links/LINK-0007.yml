@@ -1,6 +1,6 @@
 uid: LINK-0007
 type: link
-status: proposed
+status: ratified
 title: A term relates to the terms it bears on.
 text: A term relates to the terms it bears on.
 normative: true
@@ -13,4 +13,14 @@ links:
   type: via
 attrs:
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:12:29Z'
+  fingerprint: sha256:547b7cefbd78b93064efb0b93d2693c0b95cfcb99c3303a457660f0f636e3b23
+  content:
+    type: link
+    text: A term relates to the terms it bears on.
+    normative: true
+    derived: false
+    attrs: {}
 key: 0b6f6f0e-1d2a-4c3b-8e4f-2159c3c67aed

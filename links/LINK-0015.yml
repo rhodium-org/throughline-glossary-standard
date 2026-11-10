@@ -1,6 +1,6 @@
 uid: LINK-0015
 type: link
-status: proposed
+status: ratified
 title: A term is broader than terms of other glossaries.
 text: A term is broader than terms of other glossaries.
 normative: true
@@ -12,4 +12,14 @@ links:
 attrs:
   outside: true
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:12:43Z'
+  fingerprint: sha256:beec961b458491fd5261ceb55ee4e93fef0b52bd2509015a57d0e8e8b149e998
+  content:
+    type: link
+    text: A term is broader than terms of other glossaries.
+    normative: true
+    derived: false
+    attrs: {}
 key: 0b6f6f0e-1d2a-4c3b-8e4f-e343e36f1ebd

@@ -1,6 +1,6 @@
 uid: ATTR-0002
 type: attribute
-status: proposed
+status: ratified
 title: A term's why
 text: 'A term''s why: Text; always; signed. Why the concept exists, drawn from the
   rationale of the items it is defined from, and how it sits with the concepts beside
@@ -16,4 +16,16 @@ attrs:
   required: true
   normative: true
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:12:13Z'
+  fingerprint: sha256:d9b14eccae63355087afbc686c9b77c86850860545d19508300c4803e19e382c
+  content:
+    type: attribute
+    text: 'A term''s why: Text; always; signed. Why the concept exists, drawn from
+      the rationale of the items it is defined from, and how it sits with the concepts
+      beside it.'
+    normative: true
+    derived: false
+    attrs: {}
 key: 0b6f6f0e-1d2a-4c3b-8e4f-19829d41c867

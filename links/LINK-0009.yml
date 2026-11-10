@@ -1,6 +1,6 @@
 uid: LINK-0009
 type: link
-status: proposed
+status: ratified
 title: A term is for the audiences whose glossary holds it.
 text: A term is for the audiences whose glossary holds it.
 normative: true
@@ -13,4 +13,14 @@ links:
   type: via
 attrs:
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:12:36Z'
+  fingerprint: sha256:e561a3ff2b758ab8db78de3acb8e3e894fab6ced670339f238e8f18c9bdf70be
+  content:
+    type: link
+    text: A term is for the audiences whose glossary holds it.
+    normative: true
+    derived: false
+    attrs: {}
 key: 0b6f6f0e-1d2a-4c3b-8e4f-d19b727f5db6

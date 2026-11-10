@@ -1,6 +1,6 @@
 uid: ATTR-0007
 type: attribute
-status: proposed
+status: ratified
 title: A gloss's why
 text: 'A gloss''s why: Text; optional; signed. The term''s why in the audience''s
   words, shown to them in place of the term''s own; where absent, the term''s own
@@ -15,4 +15,16 @@ attrs:
   name: why
   normative: true
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:12:18Z'
+  fingerprint: sha256:268cc1b2f6bbfacd61f591b7b7c33c2ecd53731991a962cce6ad297da803af89
+  content:
+    type: attribute
+    text: 'A gloss''s why: Text; optional; signed. The term''s why in the audience''s
+      words, shown to them in place of the term''s own; where absent, the term''s
+      own is shown.'
+    normative: true
+    derived: false
+    attrs: {}
 key: 0b6f6f0e-1d2a-4c3b-8e4f-ccb75bec8d6b

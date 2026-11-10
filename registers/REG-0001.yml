@@ -1,6 +1,6 @@
 uid: REG-0001
 type: register
-status: proposed
+status: ratified
 title: Glossary live in GLS
 text: 'A follower holds exactly one glossary, in GLS, folder glossary/: what it covers.
   Every term and audience reaches it.'
@@ -17,4 +17,15 @@ attrs:
   required: true
   exactly_one: true
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:12:01Z'
+  fingerprint: sha256:92b38da15ba80471c17fa64ff86971f6c6d991182cd50ec406e8f7e580447202
+  content:
+    type: register
+    text: 'A follower holds exactly one glossary, in GLS, folder glossary/: what
+      it covers. Every term and audience reaches it.'
+    normative: true
+    derived: false
+    attrs: {}
 key: 0b6f6f0e-1d2a-4c3b-8e4f-12a975c97594

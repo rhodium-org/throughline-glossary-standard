@@ -1,6 +1,6 @@
 uid: REG-0003
 type: register
-status: proposed
+status: ratified
 title: Terms live in TERM
 text: 'A follower holds its terms in TERM, folder terms/: one concept, held once,
   named by its preferred name and defined in one line by the text.'
@@ -16,4 +16,15 @@ attrs:
   scope: followers
   required: true
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:12:04Z'
+  fingerprint: sha256:484ad2525eccae58c96670f22406d2ba44b67ef099296131ca65655f3265d782
+  content:
+    type: register
+    text: 'A follower holds its terms in TERM, folder terms/: one concept, held once,
+      named by its preferred name and defined in one line by the text.'
+    normative: true
+    derived: false
+    attrs: {}
 key: 0b6f6f0e-1d2a-4c3b-8e4f-1d58e68af5e6

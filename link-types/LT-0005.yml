@@ -1,6 +1,6 @@
 uid: LT-0005
 type: link_type
-status: proposed
+status: ratified
 title: The link type relates
 text: A term bears on another term of this glossary that its why or how it works
   names.
@@ -12,4 +12,15 @@ attrs:
   name: relates
   grounds: false
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:11:44Z'
+  fingerprint: sha256:97657ecd04c3bce9b5cdb9d19e8306f244c3e160ea01d51477c9e075c0c6ecc2
+  content:
+    type: link_type
+    text: A term bears on another term of this glossary that its why or how it works
+      names.
+    normative: true
+    derived: false
+    attrs: {}
 key: 0b6f6f0e-1d2a-4c3b-8e4f-361f561d9169

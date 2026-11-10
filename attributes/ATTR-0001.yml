@@ -1,6 +1,6 @@
 uid: ATTR-0001
 type: attribute
-status: proposed
+status: ratified
 title: An audience's knows
 text: 'An audience''s knows: Text; always. What this reader already knows and what
   they ask, such as a technical director who did not build the system and asks where
@@ -15,4 +15,17 @@ attrs:
   name: knows
   required: true
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:12:12Z'
+  fingerprint: sha256:9216c22ad9b36f736fd3cb9ef568a97c15a66e4f1b2c452a83b052bf7942b429
+  content:
+    type: attribute
+    text: 'An audience''s knows: Text; always. What this reader already knows and
+      what they ask, such as a technical director who did not build the system and
+      asks where the knowledge lives. Everything published for them is written for
+      that.'
+    normative: true
+    derived: false
+    attrs: {}
 key: 0b6f6f0e-1d2a-4c3b-8e4f-8697a1677e1c

@@ -1,6 +1,6 @@
 uid: INT-0001
 type: intent
-status: proposed
+status: ratified
 title: Explain the concepts of graphs to the people who read them, and keep their
   names consistent
 text: 'A graph that follows this standard is a glossary of the graphs it composes:
@@ -15,4 +15,23 @@ text: 'A graph that follows this standard is a glossary of the graphs it compose
 normative: false
 attrs:
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:11:33Z'
+  fingerprint: sha256:6526e91f51c7c328d94bc1b2cba22445758e87e8929ee29c6d809337156d5001
+  content:
+    type: intent
+    text: 'A graph that follows this standard is a glossary of the graphs it composes:
+      each concept they use, held once, with its preferred name, a one-line definition,
+      why it exists, what decides how it behaves and one concrete example, linked
+      by stamped links to the items it was written from. Its audiences are its own
+      items: a published glossary for one audience is the subset of terms marked
+      for it, in that audience''s wording where the concept needs other words. Its
+      terms map onto the terms of other glossaries it composes, so names that differ
+      for one concept, names retired but still in use, and one name used for two
+      concepts can be found and put right, and the vocabulary of many graphs converges
+      over time.'
+    normative: false
+    derived: false
+    attrs: {}
 key: 0b6f6f0e-1d2a-4c3b-8e4f-fa7153f7ed1c

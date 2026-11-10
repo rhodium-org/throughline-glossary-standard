@@ -1,6 +1,6 @@
 uid: LINK-0001
 type: link
-status: proposed
+status: ratified
 title: A term derives from its glossary.
 text: A term derives from its glossary.
 normative: true
@@ -15,4 +15,14 @@ attrs:
   min: 1
   max: 1
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:12:23Z'
+  fingerprint: sha256:77ee932063826bbe5a7fae50fe91b8a623b3df61d30b8d836f9eee0338c2138f
+  content:
+    type: link
+    text: A term derives from its glossary.
+    normative: true
+    derived: false
+    attrs: {}
 key: 0b6f6f0e-1d2a-4c3b-8e4f-92eb1f0956a7

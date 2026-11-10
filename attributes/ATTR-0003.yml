@@ -1,6 +1,6 @@
 uid: ATTR-0003
 type: attribute
-status: proposed
+status: ratified
 title: A term's how it works
 text: 'A term''s how it works: Text; always; signed. What decides how the concept
   behaves: the rules, settings, files and links that drive it, each named as the
@@ -16,4 +16,16 @@ attrs:
   required: true
   normative: true
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:12:14Z'
+  fingerprint: sha256:2d5816b3c57e461e519af682cfe4ad77ee0e7db5350a7882877303b428064325
+  content:
+    type: attribute
+    text: 'A term''s how it works: Text; always; signed. What decides how the concept
+      behaves: the rules, settings, files and links that drive it, each named as
+      the explained graph names it. It answers the question how does it know.'
+    normative: true
+    derived: false
+    attrs: {}
 key: 0b6f6f0e-1d2a-4c3b-8e4f-72e2b92eecab

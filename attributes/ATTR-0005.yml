@@ -1,6 +1,6 @@
 uid: ATTR-0005
 type: attribute
-status: proposed
+status: ratified
 title: A term's aliases
 text: 'A term''s aliases: Line, a list; optional; signed. The other names in accepted
   use for the concept. A reader meeting one is pointed to the term.'
@@ -15,4 +15,15 @@ attrs:
   list: true
   normative: true
   origin: ai
+ratifications:
+- by: Henry Grech-Cini
+  at: '2026-11-10T22:12:16Z'
+  fingerprint: sha256:bb20a73c4476aed52fbaba16280f6bdb928fbc5f3d1a382ecdfdb87de52cbb48
+  content:
+    type: attribute
+    text: 'A term''s aliases: Line, a list; optional; signed. The other names in
+      accepted use for the concept. A reader meeting one is pointed to the term.'
+    normative: true
+    derived: false
+    attrs: {}
 key: 0b6f6f0e-1d2a-4c3b-8e4f-ca9cf2d920d2
