@@ -1,0 +1,8 @@
+uid: GLS-0001
+type: glossary
+status: proposed
+title: The deck maker's concepts
+text: What the deck maker's words mean, and what decides the decks it makes.
+normative: true
+attrs:
+  origin: ai

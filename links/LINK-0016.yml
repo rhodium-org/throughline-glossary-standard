@@ -1,0 +1,24 @@
+uid: LINK-0016
+type: link
+status: proposed
+title: An example verifies at least one register, attribute or link declaration of
+  this graph.
+text: An example verifies at least one register, attribute or link declaration of
+  this graph.
+normative: true
+links:
+- target: REG-0005
+  type: from
+- target: meta:REG-0002
+  type: to
+- target: meta:REG-0005
+  type: to
+- target: meta:REG-0006
+  type: to
+- target: LT-0013
+  type: via
+attrs:
+  min: 1
+  scope: this-graph
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-ad0e514c7099

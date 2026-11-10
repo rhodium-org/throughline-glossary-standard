@@ -1,0 +1,16 @@
+uid: LINK-0008
+type: link
+status: proposed
+title: A term has the broader terms it is a kind or part of.
+text: A term has the broader terms it is a kind or part of.
+normative: true
+links:
+- target: REG-0003
+  type: from
+- target: REG-0003
+  type: to
+- target: LT-0006
+  type: via
+attrs:
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-ff853738ad67

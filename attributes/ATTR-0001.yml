@@ -1,0 +1,18 @@
+uid: ATTR-0001
+type: attribute
+status: proposed
+title: An audience's knows
+text: 'An audience''s knows: Text; always. What this reader already knows and what
+  they ask, such as a technical director who did not build the system and asks where
+  the knowledge lives. Everything published for them is written for that.'
+normative: true
+links:
+- target: REG-0002
+  type: belongs_to
+- target: TYPE-0002
+  type: has_type
+attrs:
+  name: knows
+  required: true
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-8697a1677e1c

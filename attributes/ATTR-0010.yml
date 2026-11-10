@@ -1,0 +1,16 @@
+uid: ATTR-0010
+type: attribute
+status: proposed
+title: A term's local
+text: 'A term''s local: Flag; optional. True when the concept is deliberately the
+  explained graphs'' own and no glossary this one maps onto should hold it; a term
+  that is not local and matches nothing there is a finding.'
+normative: true
+links:
+- target: REG-0003
+  type: belongs_to
+- target: TYPE-0003
+  type: has_type
+attrs:
+  name: local
+  origin: ai

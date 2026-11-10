@@ -1,0 +1,11 @@
+uid: TYPE-0003
+type: type
+status: proposed
+title: Flag
+text: True or false.
+normative: true
+links:
+- target: meta:BASE-0005
+  type: has_type
+attrs:
+  origin: ai

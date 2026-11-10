@@ -1,0 +1,15 @@
+uid: LT-0008
+type: link_type
+status: proposed
+title: The link type glosses
+text: A gloss words one term for one audience. Stamped, so a change to the term marks
+  the gloss for review. It grounds the gloss.
+normative: true
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  name: glosses
+  grounds: true
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-9921d2ae18f7

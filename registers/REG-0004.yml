@@ -1,0 +1,20 @@
+uid: REG-0004
+type: register
+status: proposed
+title: Glosses live in GLOSS
+text: 'A follower holds its glosses in GLOSS, folder glosses/: one term worded for
+  one audience, where the term''s own words do not serve that reader. The text is
+  the definition in that audience''s words.'
+normative: true
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  prefix: GLOSS
+  dir: glosses
+  holds: gloss
+  label: Glosses
+  scope: followers
+  required: false
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-b63b528cd271

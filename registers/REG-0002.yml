@@ -1,0 +1,19 @@
+uid: REG-0002
+type: register
+status: proposed
+title: Audiences live in AUD
+text: 'A follower holds its audiences in AUD, folder audiences/: one kind of reader,
+  what they already know and what they ask.'
+normative: true
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  prefix: AUD
+  dir: audiences
+  holds: audience
+  label: Audiences
+  scope: followers
+  required: false
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-449c43f7fe26

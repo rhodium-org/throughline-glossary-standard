@@ -1,0 +1,19 @@
+uid: ATTR-0002
+type: attribute
+status: proposed
+title: A term's why
+text: 'A term''s why: Text; always; signed. Why the concept exists, drawn from the
+  rationale of the items it is defined from, and how it sits with the concepts beside
+  it.'
+normative: true
+links:
+- target: REG-0003
+  type: belongs_to
+- target: TYPE-0002
+  type: has_type
+attrs:
+  name: why
+  required: true
+  normative: true
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-19829d41c867

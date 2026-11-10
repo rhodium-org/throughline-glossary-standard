@@ -1,0 +1,9 @@
+uid: INT-0001
+type: intent
+status: proposed
+title: Make one deck's content in any look
+text: Write a deck's content once and show it in the look of whichever organisation
+  presents it.
+normative: true
+attrs:
+  origin: ai

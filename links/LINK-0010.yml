@@ -1,0 +1,18 @@
+uid: LINK-0010
+type: link
+status: proposed
+title: A gloss words exactly one term.
+text: A gloss words exactly one term.
+normative: true
+links:
+- target: REG-0004
+  type: from
+- target: REG-0003
+  type: to
+- target: LT-0008
+  type: via
+attrs:
+  min: 1
+  max: 1
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-5fa7b8ce4efc

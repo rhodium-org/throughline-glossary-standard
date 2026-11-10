@@ -1,0 +1,16 @@
+uid: LINK-0003
+type: link
+status: proposed
+title: A term is defined from at least one item of a graph the glossary composes.
+text: A term is defined from at least one item of a graph the glossary composes.
+normative: true
+links:
+- target: REG-0003
+  type: from
+- target: LT-0001
+  type: via
+attrs:
+  min: 1
+  outside: true
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-42b505caeaa1

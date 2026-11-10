@@ -1,0 +1,12 @@
+uid: EX-0008
+type: example
+status: proposed
+title: Two glossaries in one graph
+text: conformance/two-glossaries holds a second glossary. tl check reports that the
+  register GLS declares exactly one.
+normative: true
+links:
+- target: REG-0001
+  type: verifies
+attrs:
+  origin: ai

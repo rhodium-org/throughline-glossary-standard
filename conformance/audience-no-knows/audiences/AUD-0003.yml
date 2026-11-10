@@ -1,0 +1,11 @@
+uid: AUD-0003
+type: audience
+status: proposed
+title: Anyone
+text: Anyone at all.
+normative: true
+links:
+- target: GLS-0001
+  type: derives_from
+attrs:
+  origin: ai

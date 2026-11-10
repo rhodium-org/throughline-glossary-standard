@@ -1,0 +1,24 @@
+uid: TERM-0003
+type: term
+status: proposed
+title: Content
+text: 'What a deck says: each slide''s title, statements and notes, and the claims
+  and sources they rest on.'
+normative: true
+links:
+- target: GLS-0001
+  type: derives_from
+- target: app:REQ-0003
+  type: defined_from
+  stamp: sha256:701934539cdae87bc1cdada485da5240fefe03f673d051d2850e2dd2dfecd13a
+- target: TERM-0001
+  type: relates
+- target: AUD-0002
+  type: for
+attrs:
+  why: Written once, without colour or font, so the same words can be shown in any
+    brand.
+  how_it_works: The slides' text and claims are kept apart from any look; the builder
+    lays them out in the brand it is making the deck in.
+  example: The November deck's content is made into decks in two brands.
+  origin: ai

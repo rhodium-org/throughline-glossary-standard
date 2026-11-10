@@ -1,0 +1,12 @@
+uid: TYPE-0001
+type: type
+status: proposed
+title: Line
+text: One line of text.
+normative: true
+links:
+- target: meta:BASE-0001
+  type: has_type
+attrs:
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-6438c669e0d0

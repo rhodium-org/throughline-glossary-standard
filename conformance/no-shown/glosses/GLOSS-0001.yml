@@ -1,0 +1,16 @@
+uid: GLOSS-0001
+type: gloss
+status: proposed
+title: Brand, for a deck author
+text: 'The look your deck will be shown in, which you never set: write the words
+  and the brand does the rest.'
+normative: true
+links:
+- target: TERM-0001
+  type: glosses
+  stamp: sha256:ffc618bbea306f0f44a710c22584e211965786ee0f35d4bbaee311cae2463522
+- target: AUD-0002
+  type: for
+attrs:
+  why: So you write once and the deck can be shown to any organisation.
+  origin: ai

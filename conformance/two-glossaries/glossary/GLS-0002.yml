@@ -1,0 +1,8 @@
+uid: GLS-0002
+type: glossary
+status: proposed
+title: A second glossary
+text: t
+normative: true
+attrs:
+  origin: ai

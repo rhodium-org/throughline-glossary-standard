@@ -1,0 +1,19 @@
+uid: REG-0005
+type: register
+status: proposed
+title: Examples live in EX
+text: 'This graph holds its examples in EX, folder examples/: one conformance graph
+  under conformance/ each, and the declarations it verifies.'
+normative: true
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  prefix: EX
+  dir: examples
+  holds: example
+  label: Examples
+  scope: this-graph
+  required: true
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-82531c702ea4

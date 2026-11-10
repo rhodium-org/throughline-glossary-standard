@@ -1,0 +1,23 @@
+[project]
+name = "explained (conformance example)"
+format_version = 4
+
+# A small graph of its own, which the glossary examples beside it explain.
+[grounding]
+root_types = ["intent"]
+delivery_roots = ["intent"]
+ground_link_types = ["derives_from", "implements"]
+
+[links]
+types = ["derives_from", "implements"]
+
+[status]
+values = ["proposed", "draft", "ratified", "suspect", "rejected", "deleted"]
+
+[status.roles]
+initial = "draft"
+proposed = "proposed"
+ratified = "ratified"
+invalidated = "rejected"
+suspect = "suspect"
+tombstone = "deleted"

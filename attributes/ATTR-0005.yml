@@ -1,0 +1,18 @@
+uid: ATTR-0005
+type: attribute
+status: proposed
+title: A term's aliases
+text: 'A term''s aliases: Line, a list; optional; signed. The other names in accepted
+  use for the concept. A reader meeting one is pointed to the term.'
+normative: true
+links:
+- target: REG-0003
+  type: belongs_to
+- target: TYPE-0001
+  type: has_type
+attrs:
+  name: aliases
+  list: true
+  normative: true
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-ca9cf2d920d2

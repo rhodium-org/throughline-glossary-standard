@@ -1,0 +1,12 @@
+uid: EX-0005
+type: example
+status: proposed
+title: A term with no example item
+text: conformance/no-shown holds Content with no shown_by link. tl check reports
+  that it is shown by nothing.
+normative: true
+links:
+- target: LINK-0005
+  type: verifies
+attrs:
+  origin: ai

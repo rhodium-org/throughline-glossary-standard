@@ -1,0 +1,12 @@
+uid: REQ-0002
+type: requirement
+status: proposed
+title: A brand is a folder of tokens
+text: A brand is a folder holding its palette, its fonts, two logos and a cover picture,
+  read by the builder each time it makes a deck. The folder was once called a skin.
+normative: true
+links:
+- target: INT-0001
+  type: implements
+attrs:
+  origin: ai

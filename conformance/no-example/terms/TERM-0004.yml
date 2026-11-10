@@ -1,0 +1,19 @@
+uid: TERM-0004
+type: term
+status: proposed
+title: Source
+text: Where a claim comes from.
+normative: true
+links:
+- target: GLS-0001
+  type: derives_from
+- target: app:REQ-0003
+  type: defined_from
+  stamp: sha256:701934539cdae87bc1cdada485da5240fefe03f673d051d2850e2dd2dfecd13a
+- target: app:REQ-0003
+  type: shown_by
+  stamp: sha256:701934539cdae87bc1cdada485da5240fefe03f673d051d2850e2dd2dfecd13a
+attrs:
+  why: So a claim can be checked.
+  how_it_works: It is read from the slides.
+  origin: ai

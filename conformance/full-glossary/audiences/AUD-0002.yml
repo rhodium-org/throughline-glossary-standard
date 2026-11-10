@@ -1,0 +1,12 @@
+uid: AUD-0002
+type: audience
+status: proposed
+title: A deck author
+text: Someone writing a deck's content.
+normative: true
+links:
+- target: GLS-0001
+  type: derives_from
+attrs:
+  knows: Writes slides; never edits a brand.
+  origin: ai

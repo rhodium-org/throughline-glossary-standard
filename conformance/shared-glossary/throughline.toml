@@ -1,0 +1,13 @@
+[project]
+name = "shared-glossary (conformance example)"
+format_version = 4
+
+# The standard this example follows, by path from conformance/shared-glossary/.
+[[sources]]
+namespace = "glossary"
+path = "../.."
+schema = true
+
+[[sources]]
+namespace = "app"
+path = "../explained"

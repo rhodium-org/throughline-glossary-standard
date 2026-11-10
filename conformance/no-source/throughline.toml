@@ -1,0 +1,17 @@
+[project]
+name = "no-source (conformance example)"
+format_version = 4
+
+# The standard this example follows, by path from conformance/no-source/.
+[[sources]]
+namespace = "glossary"
+path = "../.."
+schema = true
+
+[[sources]]
+namespace = "app"
+path = "../explained"
+
+[[sources]]
+namespace = "shared"
+path = "../shared-glossary"

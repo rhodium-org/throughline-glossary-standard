@@ -1,0 +1,12 @@
+uid: EX-0010
+type: example
+status: proposed
+title: An audience that does not say what it knows
+text: conformance/audience-no-knows holds an audience with no knows. tl check reports
+  that it is required.
+normative: true
+links:
+- target: ATTR-0001
+  type: verifies
+attrs:
+  origin: ai

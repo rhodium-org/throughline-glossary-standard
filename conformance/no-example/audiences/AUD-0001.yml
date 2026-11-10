@@ -1,0 +1,12 @@
+uid: AUD-0001
+type: audience
+status: proposed
+title: A technical director
+text: Someone deciding whether to use the deck maker.
+normative: true
+links:
+- target: GLS-0001
+  type: derives_from
+attrs:
+  knows: Did not build the deck maker; asks where its knowledge lives.
+  origin: ai

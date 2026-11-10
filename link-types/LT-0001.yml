@@ -1,0 +1,15 @@
+uid: LT-0001
+type: link_type
+status: proposed
+title: The link type defined_from
+text: A term is defined from an item of an explained graph that states or uses the
+  concept. Stamped, so a change to the item marks the term for review.
+normative: true
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  name: defined_from
+  grounds: false
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-58cd9715f9dd

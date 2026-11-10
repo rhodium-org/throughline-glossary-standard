@@ -1,0 +1,15 @@
+uid: LT-0009
+type: link_type
+status: proposed
+title: The link type same_as
+text: A term is the same concept as a term of another glossary this one composes
+  (SKOS exactMatch). Stamped. Where their preferred names differ, that is a finding.
+normative: true
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  name: same_as
+  grounds: false
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-679630289f5a

@@ -1,0 +1,19 @@
+uid: ATTR-0004
+type: attribute
+status: proposed
+title: A term's example
+text: 'A term''s example: Text; always; signed. One concrete case of the concept
+  taken from the explained graph; the item it is taken from is the term''s shown_by
+  link.'
+normative: true
+links:
+- target: REG-0003
+  type: belongs_to
+- target: TYPE-0002
+  type: has_type
+attrs:
+  name: example
+  required: true
+  normative: true
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-e1dab44f9c76

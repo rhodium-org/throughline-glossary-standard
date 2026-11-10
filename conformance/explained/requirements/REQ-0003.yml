@@ -1,0 +1,12 @@
+uid: REQ-0003
+type: requirement
+status: proposed
+title: Content is text and claims
+text: A deck's content is each slide's title, statements and notes, and the claims
+  and sources they rest on, written without colour or font.
+normative: true
+links:
+- target: INT-0001
+  type: implements
+attrs:
+  origin: ai

@@ -1,0 +1,12 @@
+uid: EX-0007
+type: example
+status: proposed
+title: A term that does not say how it works
+text: conformance/no-how holds a term Source with no how_it_works. tl check reports
+  that it is required.
+normative: true
+links:
+- target: ATTR-0003
+  type: verifies
+attrs:
+  origin: ai

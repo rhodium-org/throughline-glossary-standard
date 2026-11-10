@@ -1,0 +1,15 @@
+uid: LINK-0013
+type: link
+status: proposed
+title: A term is close to terms of other glossaries.
+text: A term is close to terms of other glossaries.
+normative: true
+links:
+- target: REG-0003
+  type: from
+- target: LT-0010
+  type: via
+attrs:
+  outside: true
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-2a1fa23aaba6

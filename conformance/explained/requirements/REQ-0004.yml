@@ -1,0 +1,12 @@
+uid: REQ-0004
+type: requirement
+status: proposed
+title: The first deck is made in two brands
+text: The November deck is made in the triad brand and in the iddn brand from the
+  same content.
+normative: true
+links:
+- target: REQ-0001
+  type: derives_from
+attrs:
+  origin: ai

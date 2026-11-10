@@ -1,0 +1,12 @@
+uid: EX-0002
+type: example
+status: proposed
+title: A second glossary a first maps onto
+text: conformance/shared-glossary is a glossary of the same explained graph whose
+  term Look the full glossary's Brand is the same as. tl check passes.
+normative: true
+links:
+- target: LINK-0012
+  type: verifies
+attrs:
+  origin: ai

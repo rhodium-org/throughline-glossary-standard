@@ -1,0 +1,18 @@
+uid: ATTR-0007
+type: attribute
+status: proposed
+title: A gloss's why
+text: 'A gloss''s why: Text; optional; signed. The term''s why in the audience''s
+  words, shown to them in place of the term''s own; where absent, the term''s own
+  is shown.'
+normative: true
+links:
+- target: REG-0004
+  type: belongs_to
+- target: TYPE-0002
+  type: has_type
+attrs:
+  name: why
+  normative: true
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-ccb75bec8d6b

@@ -1,0 +1,12 @@
+uid: EX-0003
+type: example
+status: proposed
+title: A term defined from nothing
+text: conformance/no-source holds Content with no defined_from link. tl check reports
+  that it has none to items outside the graph.
+normative: true
+links:
+- target: LINK-0003
+  type: verifies
+attrs:
+  origin: ai

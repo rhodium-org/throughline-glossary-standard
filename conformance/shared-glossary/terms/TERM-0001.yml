@@ -1,0 +1,20 @@
+uid: TERM-0001
+type: term
+status: proposed
+title: Look
+text: The colours, fonts, logos and cover an organisation's decks are made in.
+normative: true
+links:
+- target: GLS-0001
+  type: derives_from
+- target: app:REQ-0001
+  type: defined_from
+  stamp: sha256:b0256fac05ae4f30bf749a6d1adc23c578afe9b4577522bde3d0d646f05a600b
+- target: app:REQ-0004
+  type: shown_by
+  stamp: sha256:9a2b4cce63d4261d43a527d8bbe9093217a5f6e66727b7afdb4b8cd8cdcb52fd
+attrs:
+  why: Decks are shown to several organisations, each in its own look.
+  how_it_works: Each tool takes the look from a folder of tokens it is told to use.
+  example: The November deck in two looks.
+  origin: ai

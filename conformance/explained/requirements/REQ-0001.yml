@@ -1,0 +1,14 @@
+uid: REQ-0001
+type: requirement
+status: proposed
+title: A deck's look comes from its brand alone
+text: Every colour, font, logo and slide style in a deck is taken from the brand
+  it is made in; the content names none.
+rationale: One deck can then be shown to another organisation in its own look without
+  its content being touched.
+normative: true
+links:
+- target: INT-0001
+  type: implements
+attrs:
+  origin: ai

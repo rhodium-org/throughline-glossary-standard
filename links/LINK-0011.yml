@@ -1,0 +1,18 @@
+uid: LINK-0011
+type: link
+status: proposed
+title: A gloss is for exactly one audience.
+text: A gloss is for exactly one audience.
+normative: true
+links:
+- target: REG-0004
+  type: from
+- target: REG-0002
+  type: to
+- target: LT-0007
+  type: via
+attrs:
+  min: 1
+  max: 1
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-11b41f743bca

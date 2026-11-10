@@ -1,0 +1,19 @@
+uid: ATTR-0006
+type: attribute
+status: proposed
+title: A term's deprecated names
+text: 'A term''s deprecated names: Line, a list; optional; signed. Names once used
+  for the concept that are to be retired. An explained item that still uses one is
+  a finding: a rename to make in that item''s graph.'
+normative: true
+links:
+- target: REG-0003
+  type: belongs_to
+- target: TYPE-0001
+  type: has_type
+attrs:
+  name: deprecated_names
+  list: true
+  normative: true
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-386a968f4e74

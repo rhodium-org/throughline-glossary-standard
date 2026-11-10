@@ -1,0 +1,19 @@
+uid: ATTR-0003
+type: attribute
+status: proposed
+title: A term's how it works
+text: 'A term''s how it works: Text; always; signed. What decides how the concept
+  behaves: the rules, settings, files and links that drive it, each named as the
+  explained graph names it. It answers the question how does it know.'
+normative: true
+links:
+- target: REG-0003
+  type: belongs_to
+- target: TYPE-0002
+  type: has_type
+attrs:
+  name: how_it_works
+  required: true
+  normative: true
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-72e2b92eecab

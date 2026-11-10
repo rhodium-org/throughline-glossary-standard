@@ -1,0 +1,22 @@
+uid: TERM-0002
+type: term
+status: proposed
+title: Token
+text: One value a brand sets, such as a colour or a font.
+normative: true
+links:
+- target: GLS-0001
+  type: derives_from
+- target: app:REQ-0002
+  type: defined_from
+  stamp: sha256:2b470119637f091101f223b77888b4e3705b74fe1d78b5a1d224b17c01b9ef9f
+- target: app:REQ-0002
+  type: shown_by
+  stamp: sha256:2b470119637f091101f223b77888b4e3705b74fe1d78b5a1d224b17c01b9ef9f
+- target: TERM-0001
+  type: broader
+attrs:
+  why: A brand is made of tokens, so changing one changes every deck in that brand.
+  how_it_works: The builder reads each token from the brand's folder.
+  example: The palette and fonts in a brand's folder.
+  origin: ai

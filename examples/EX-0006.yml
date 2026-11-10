@@ -1,0 +1,12 @@
+uid: EX-0006
+type: example
+status: proposed
+title: A term with no example
+text: conformance/no-example holds a term Source with no example. tl check reports
+  that it is required.
+normative: true
+links:
+- target: ATTR-0004
+  type: verifies
+attrs:
+  origin: ai

@@ -1,0 +1,8 @@
+uid: GLS-0001
+type: glossary
+status: proposed
+title: Names every deck tool shares
+text: The concepts several tools that make decks agree on.
+normative: true
+attrs:
+  origin: ai

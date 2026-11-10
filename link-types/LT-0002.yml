@@ -1,0 +1,15 @@
+uid: LT-0002
+type: link_type
+status: proposed
+title: The link type driven_by
+text: 'A term is driven by an item of an explained graph that decides how the concept
+  behaves: the items its how it works names. Stamped.'
+normative: true
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  name: driven_by
+  grounds: false
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-f189016e56f2

@@ -1,0 +1,16 @@
+uid: LINK-0006
+type: link
+status: proposed
+title: A term is distinct from the terms it may be confused with.
+text: A term is distinct from the terms it may be confused with.
+normative: true
+links:
+- target: REG-0003
+  type: from
+- target: REG-0003
+  type: to
+- target: LT-0004
+  type: via
+attrs:
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-1c2ee6b3d02b

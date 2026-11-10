@@ -1,0 +1,15 @@
+uid: LT-0006
+type: link_type
+status: proposed
+title: The link type broader
+text: 'A term is a kind or a part of a broader term of this glossary: a group administrator
+  of a member, an accent of a brand.'
+normative: true
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  name: broader
+  grounds: false
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-530f5b0b372f

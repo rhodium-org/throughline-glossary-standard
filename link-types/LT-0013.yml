@@ -1,0 +1,16 @@
+uid: LT-0013
+type: link_type
+status: proposed
+title: The link type verifies
+text: An example verifies the declarations its conformance graph keeps or breaks.
+  It grounds, and only this graph uses it.
+normative: true
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  name: verifies
+  grounds: true
+  scope: this-graph
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-ced369a78b7c

@@ -1,0 +1,12 @@
+uid: EX-0009
+type: example
+status: proposed
+title: A gloss for no audience
+text: conformance/gloss-no-audience holds a gloss linked to no audience. tl check
+  reports that it needs one.
+normative: true
+links:
+- target: LINK-0011
+  type: verifies
+attrs:
+  origin: ai

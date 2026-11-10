@@ -1,0 +1,20 @@
+uid: REG-0001
+type: register
+status: proposed
+title: Glossary live in GLS
+text: 'A follower holds exactly one glossary, in GLS, folder glossary/: what it covers.
+  Every term and audience reaches it.'
+normative: true
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  prefix: GLS
+  dir: glossary
+  holds: glossary
+  label: Glossary
+  scope: followers
+  required: true
+  exactly_one: true
+  origin: ai
+key: 0b6f6f0e-1d2a-4c3b-8e4f-12a975c97594

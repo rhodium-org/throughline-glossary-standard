@@ -1,0 +1,13 @@
+uid: EX-0004
+type: example
+status: proposed
+title: A term defined only from another term
+text: conformance/own-source holds Content defined from Brand, a term of the glossary
+  itself, and from nothing outside. tl check reports the link as undeclared and the
+  term as defined from nothing outside.
+normative: true
+links:
+- target: LINK-0003
+  type: verifies
+attrs:
+  origin: ai
